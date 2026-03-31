@@ -209,5 +209,15 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+This is a fascinating question. One example that comes to mind is the case of foreign accents in names (e.g., "é", "ï", "ñ"), which are not always retained in databases. As a French speaker with a first and last name 
+with (annoyingly) a lot of accents (4 in total!), this is a problem I sometimes encounter.  I did a quick search about this issue to see how it affected people in similar situations. 
+I found that in 2022, the Ontario government allowed for the first time French characters to be included on Ontario health cards. This was the result of years of advocacy coming from the French-Ontarian community,
+which had been fighting to include accents in names on provincial government documents. One article from the Ottawa Citizen highlights how such measure had a positive impact on Francophones in Ontario, claiming that it was an 
+"important gesture that strikes at the heart of their identity".  I find this interesting as it demonstrates how choices in the way data is encoded can influence people's sense of respect and recognition of their identity, 
+especially if they are part of a minority group. This quote from Soukaïna Boutiyeb, president of Association des Communautés Francophones d’Ottawa, captures well this phenomenon: “As a francophone community, yes we’re a minority, 
+but we want to be seen and at least have our names written properly”. Of course, this issue does not only affect Francophones in Ontario, but any community speaking a language with non-English characters. 
+In my opinion, this example showcases how specific choices regarding how data system are designed (e.g., allowing or not entries with accents) can have an impact on an individual's or a community's experience of marginalization.
+
+Link to the article: https://ottawacitizen.com/news/local-news/small-change-allowing-accents-on-ontario-government-id-is-a-big-difference-for-francophones 
+
 ```
